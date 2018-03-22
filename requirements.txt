@@ -1,0 +1,6 @@
+networkx
+matplotlib
+soundfile
+PyQt
+pyqtgraph
+sounddevice
